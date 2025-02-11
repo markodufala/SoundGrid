@@ -65,3 +65,7 @@ SoundGrid/
 ├── camera_utils.py      # Zpracovanie obrazu a detekcia farieb
 ├── samples              # Zložka sample súborov pre nástroj "Sample"
 └── README.md            # Tento súbor
+
+## Spolupráca:
+s Adamom Štechom na ČVUT   
+
